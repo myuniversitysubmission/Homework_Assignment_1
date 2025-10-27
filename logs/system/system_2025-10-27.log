@@ -1,0 +1,38 @@
+[SYSTEM - TaskManager] TaskManager initialized.
+[CHAR][SYSTEM - TaskManager] TaskManager initialized.
+[SYSTEM - RobotInit] Robot robot1 initialized.
+[CHAR][SYSTEM - RobotInit] Robot robot1 initialized.
+[SYSTEM - TaskManager] Registered storage vehicle: vehicle1
+[CHAR][SYSTEM - TaskManager] Registered storage vehicle: vehicle1
+[SYSTEM - TaskManager] Registered storage vehicle: vehicle2
+[CHAR][SYSTEM - TaskManager] Registered storage vehicle: vehicle2
+[SYSTEM - TaskManager] Registered charging station: station1
+[CHAR][SYSTEM - TaskManager] Registered charging station: station1
+[SYSTEM - TaskManager] Registered robot: robot1
+[CHAR][SYSTEM - TaskManager] Registered robot: robot1
+[SYSTEM - TaskAssign] Assigning robot robot1 to pick wasteA and deposit to vehicle1
+[CHAR][SYSTEM - TaskAssign] Assigning robot robot1 to pick wasteA and deposit to vehicle1
+[SYSTEM - RobotAction] Robot robot1 picked up wasteA
+[CHAR][SYSTEM - RobotAction] Robot robot1 picked up wasteA
+[SYSTEM - RobotAction] Robot robot1 deposited wasteA into vehicle1
+[CHAR][SYSTEM - RobotAction] Robot robot1 deposited wasteA into vehicle1
+[SYSTEM - TaskManager] TaskManager initialized.
+[CHAR][SYSTEM - TaskManager] TaskManager initialized.
+[SYSTEM - RobotInit] Robot robot1 initialized.
+[CHAR][SYSTEM - RobotInit] Robot robot1 initialized.
+[SYSTEM - TaskManager] Registered storage vehicle: vehicle1
+[CHAR][SYSTEM - TaskManager] Registered storage vehicle: vehicle1
+[SYSTEM - TaskManager] Registered storage vehicle: vehicle2
+[CHAR][SYSTEM - TaskManager] Registered storage vehicle: vehicle2
+[SYSTEM - TaskManager] Registered charging station: station1
+[CHAR][SYSTEM - TaskManager] Registered charging station: station1
+[SYSTEM - TaskManager] Registered robot: robot1
+[CHAR][SYSTEM - TaskManager] Registered robot: robot1
+[SYSTEM - TaskAssign] Assigning robot robot1 to pick wasteB and deposit to vehicle1
+[CHAR][SYSTEM - TaskAssign] Assigning robot robot1 to pick wasteB and deposit to vehicle1
+[SYSTEM - RobotAction] Robot robot1 picked up wasteB
+[CHAR][SYSTEM - RobotAction] Robot robot1 picked up wasteB
+[SYSTEM - RobotAction] Robot robot1 deposited wasteB into vehicle1
+[CHAR][SYSTEM - RobotAction] Robot robot1 deposited wasteB into vehicle1
+[SYSTEM - SYSTEM] This is a manual log entry for testing.
+[CHAR][SYSTEM - SYSTEM] This is a manual log entry for testing.
