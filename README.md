@@ -151,7 +151,21 @@ logs/
   archive/
     vehicle1_2025-10-27.log
     archive_2025-10-27.zip
-    
+---
+
+✅ Console Menu Options
+1 - Simulate: Robot picks up waste and deposits
+2 - Create manual system log entry
+3 - List all logs
+4 - Search logs by regex
+5 - Read a log file
+6 - Delete a log
+7 - Move log to archive
+8 - Archive logs by date (zip)
+9 - Show folder structure
+0 - Exit 
+---
+
 📋 Project Requirements
 🎯 Objective
 Develop a Java console-based system to simulate Automated Waste Management, demonstrating:
@@ -203,15 +217,3 @@ Class Diagram:
 3. Run Main.java as Java Application
 4. Follow console menu
 
-✅ Console Menu Options
-1 - Simulate: Robot picks up waste and deposits
-2 - Create manual system log entry
-3 - List all logs
-4 - Search logs by regex
-5 - Read a log file
-6 - Delete a log
-7 - Move log to archive
-8 - Archive logs by date (zip)
-9 - Show folder structure
-0 - Exit
----
