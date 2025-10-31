@@ -151,6 +151,7 @@ logs/
   archive/
     vehicle1_2025-10-27.log
     archive_2025-10-27.zip
+    
 ---
 
 ✅ Console Menu Options
@@ -164,6 +165,7 @@ logs/
 8 - Archive logs by date (zip)
 9 - Show folder structure
 0 - Exit 
+
 ---
 
 📋 Project Requirements
